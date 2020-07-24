@@ -3,7 +3,7 @@ import 'package:earthquake_app/model/Quake.dart';
 import 'package:earthquake_app/network/Network.dart';
 import 'package:earthquake_app/simple_google_map/show_map.dart';
 import 'package:flutter/material.dart';
-import 'package:google_maps_flutter/google_maps_flutter.dart';
+import 'package:google_maps_flutter/google_maps_flutter.dart'
 
 void main() {
   runApp(MyApp());
