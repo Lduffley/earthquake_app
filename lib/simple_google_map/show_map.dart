@@ -30,7 +30,7 @@ class _ShowSimpleMapState extends State<ShowSimpleMap> {
       floatingActionButton: FloatingActionButton.extended(
         onPressed: goToIntel,
         label: Text('Intel Coorp'),
-        icon: Icon(Icons.place),
+        icon: Icon(Icons.place)
       ),
     );
   }
